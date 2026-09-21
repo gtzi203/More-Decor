@@ -1,5 +1,3 @@
-# textdomain: more_decor
-
 Note: Preview does not look like the actual node.=Uwaga: podgląd nie wygląda jak rzeczywisty blok.
 
 Stairs=Schody
@@ -104,4 +102,24 @@ Medium Factory Lamp=Średnia lampa fabryczna
 Large Factory Lamp=Duża lampa fabryczna
 Small Old Factory Lamp=Mała stara lampa fabryczna
 Medium Old Factory Lamp=Średnia stara lampa fabryczna
-Large Old
+Large Old Factory Lamp=Duża stara lampa fabryczna
+
+White Encased Lamp=Biała obudowana lampa
+Grey Encased Lamp=Szara obudowana lampa
+Dark Gray Encased Lamp=Ciemnoszara obudowana lampa
+Black Encased Lamp=Czarna obudowana lampa
+Yellow Encased Lamp=Żółta obudowana lampa
+Orange Encased Lamp=Pomarańczowa obudowana lampa
+Red Encased Lamp=Czerwona obudowana lampa
+Pink Encased Lamp=Różowa obudowana lampa
+Magenta Encased Lamp=Purpurowa obudowana lampa
+Violet Encased Lamp=Fioletowa obudowana lampa
+Blue Encased Lamp=Niebieska obudowana lampa
+Cyan Encased Lamp=Błękitna obudowana lampa
+Green Encased Lamp=Zielona obudowana lampa
+Dark Green Encased Lamp=Ciemnozielona obudowana lampa
+Brown Encased Lamp=Brązowa obudowana lampa
+
+Steel Pan=Stalowa patelnia
+Cast Iron Pan=Żeliwna patelnia
+Bronze Pan=Brązowa patelnia
