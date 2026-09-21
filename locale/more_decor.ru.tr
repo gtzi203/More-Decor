@@ -1,0 +1,127 @@
+# textdomain: more_decor
+
+Note: Preview does not look like the actual node.=Примечание: предварительный просмотр не выглядит как настоящий блок.
+
+Stairs=Лестница
+Inner=Внутренний
+Outer=Внешний
+Slab=Плита
+
+Craft=Ремесло
+
+Press=Нажать
+Processing=Обработка
+Time remaining=Оставшееся время
+
+Tiled=Плиточный
+Tiny=Крошечный
+Small=Маленький
+Medium=Средний
+Long=Длинный
+Large=Большой
+
+Wood=Дерево
+Steel=Сталь
+Cast Iron=Чугун
+Copper=Медь
+Bronze=Бронза
+Gold=Золото
+
+Wood Sheet=Деревянный лист
+Steel Sheet=Стальной лист
+Tin Sheet=Оловянный лист
+Cast Iron Sheet=Чугунный лист
+Copper Sheet=Медный лист
+Bronze Sheet=Бронзовый лист
+Gold Sheet=Золотой лист
+
+Cast Iron Ingot=Чугунный слиток
+Cast Iron Block=Чугунный блок
+
+Chisel Bench=Стол для резца
+Bricks=Кирпичи
+
+Glass Workbench=Стол для работы со стеклом
+Glass=Стекло
+Extra Material=Дополнительный материал
+
+Signs Workbench=Стол для вывесок
+Sign=Знак
+Dye=Краска
+
+White Brick=Белый кирпич
+Black Brick=Чёрный кирпич
+Orange Brick=Оранжевый кирпич
+Brown Brick=Коричневый кирпич
+Red Brick=Красный кирпич
+Dark Green Brick=Тёмно‑зелёный кирпич
+Blue Brick=Синий кирпич
+
+White Bricks=Белые кирпичи
+Black Bricks=Чёрные кирпичи
+Orange Bricks=Оранжевые кирпичи
+Brown Bricks=Коричневые кирпичи
+Red Bricks=Красные кирпичи
+Dark Green Bricks=Тёмно‑зелёные кирпичи
+Blue Bricks=Синие кирпичи
+
+Empty Sign=Пустой знак
+Warn Sign=Предупреждающий знак
+Do not Enter Sign=Знак «Не входить»
+Electricity Sign=Знак «Электричество»
+Danger of Life Sign=Знак «Опасно для жизни»
+Arrow Up Sign=Знак стрелка вверх
+Arrow Down Sign=Знак стрелка вниз
+Arrow Right Sign=Знак стрелка вправо
+Arrow Left Sign=Знак стрелка влево
+
+Clear Glass=Прозрачное стекло
+Tiled Glass=Плиточное стекло
+Horizontal Glass=Горизонтальное стекло
+Vertical Glass=Вертикальное стекло
+Tiled Obsidian Glass=Плиточное обсидиановое стекло
+Horizontal Obsidian Glass=Горизонтальное обсидиановое стекло
+Vertical Obsidian Glass=Вертикальное обсидиановое стекло
+Factory Glass=Фабричное стекло
+Old Factory Glass=Старое фабричное стекло
+Industrial Glass=Промышленное стекло
+
+Clear Glass Pane=Прозрачная стеклянная панель
+Tiled Glass Pane=Плиточная стеклянная панель
+Horizontal Glass Pane=Горизонтальная стеклянная панель
+Vertical Glass Pane=Вертикальная стеклянная панель
+Tiled Obsidian Glass Pane=Плиточная обсидиановая панель
+Horizontal Obsidian Glass Pane=Горизонтальная обсидиановая панель
+Vertical Obsidian Glass Pane=Вертикальная обсидиановая панель
+Factory Glass Pane=Фабричная панель
+Old Factory Glass Pane=Старая фабричная панель
+Industrial Glass Pane=Промышленная панель
+
+Industrial Lamp=Промышленная лампа
+Tiled Industrial Lamp=Плиточная промышленная лампа
+Small Factory Lamp=Маленькая фабричная лампа
+Medium Factory Lamp=Средняя фабричная лампа
+Large Factory Lamp=Большая фабричная лампа
+Small Old Factory Lamp=Маленькая старая фабричная лампа
+Medium Old Factory Lamp=Средняя старая фабричная лампа
+Large Old Factory Lamp=Большая старая фабричная лампа
+
+White Encased Lamp=Белая закрытая лампа
+Grey Encased Lamp=Серая закрытая лампа
+Dark Gray Encased Lamp=Тёмно‑серая закрытая лампа
+Black Encased Lamp=Чёрная закрытая лампа
+Yellow Encased Lamp=Жёлтая закрытая лампа
+Orange Encased Lamp=Оранжевая закрытая лампа
+Red Encased Lamp=Красная закрытая лампа
+Pink Encased Lamp=Розовая закрытая лампа
+Magenta Encased Lamp=Пурпурная закрытая лампа
+Violet Encased Lamp=Фиолетовая закрытая лампа
+Blue Encased Lamp=Синяя закрытая лампа
+Cyan Encased Lamp=Голубая закрытая лампа
+Green Encased Lamp=Зелёная закрытая лампа
+Dark Green Encased Lamp=Тёмно‑зелёная закрытая лампа
+Brown Encased Lamp=Коричневая закрытая лампа
+
+Steel Pan=Стальная сковорода
+Cast Iron Pan=Чугунная сковорода
+Bronze Pan=Бронзовая сковорода

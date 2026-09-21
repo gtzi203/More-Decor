@@ -1,0 +1,107 @@
+# textdomain: more_decor
+
+Note: Preview does not look like the actual node.=Uwaga: podgląd nie wygląda jak rzeczywisty blok.
+
+Stairs=Schody
+Inner=Wewnętrzny
+Outer=Zewnętrzny
+Slab=Płyta
+
+Craft=Rzemiosło
+
+Press=Naciśnij
+Processing=Przetwarzanie
+Time remaining=Pozostały czas
+
+Tiled=Płytkowany
+Tiny=Malutki
+Small=Mały
+Medium=Średni
+Long=Długi
+Large=Duży
+
+Wood=Drewno
+Steel=Stal
+Cast Iron=Żeliwo
+Copper=Miedź
+Bronze=Brąz
+Gold=Złoto
+
+Wood Sheet=Arkusz drewna
+Steel Sheet=Arkusz stali
+Tin Sheet=Arkusz cyny
+Cast Iron Sheet=Arkusz żeliwa
+Copper Sheet=Arkusz miedzi
+Bronze Sheet=Arkusz brązu
+Gold Sheet=Arkusz złota
+
+Cast Iron Ingot=Sztabka żeliwa
+Cast Iron Block=Blok żeliwa
+
+Chisel Bench=Stół dłutowy
+Bricks=Cegły
+
+Glass Workbench=Stół szklarski
+Glass=Szkło
+Extra Material=Dodatkowy materiał
+
+Signs Workbench=Stół znaków
+Sign=Znak
+Dye=Barwnik
+
+White Brick=Biała cegła
+Black Brick=Czarna cegła
+Orange Brick=Pomarańczowa cegła
+Brown Brick=Brązowa cegła
+Red Brick=Czerwona cegła
+Dark Green Brick=Ciemnozielona cegła
+Blue Brick=Niebieska cegła
+
+White Bricks=Białe cegły
+Black Bricks=Czarne cegły
+Orange Bricks=Pomarańczowe cegły
+Brown Bricks=Brązowe cegły
+Red Bricks=Czerwone cegły
+Dark Green Bricks=Ciemnozielone cegły
+Blue Bricks=Niebieskie cegły
+
+Empty Sign=Pusty znak
+Warn Sign=Znak ostrzegawczy
+Do not Enter Sign=Znak zakazu wejścia
+Electricity Sign=Znak elektryczności
+Danger of Life Sign=Znak zagrożenia życia
+Arrow Up Sign=Znak strzałki w górę
+Arrow Down Sign=Znak strzałki w dół
+Arrow Right Sign=Znak strzałki w prawo
+Arrow Left Sign=Znak strzałki w lewo
+
+Clear Glass=Przezroczyste szkło
+Tiled Glass=Płytkowane szkło
+Horizontal Glass=Szkło poziome
+Vertical Glass=Szkło pionowe
+Tiled Obsidian Glass=Płytkowane szkło obsydianowe
+Horizontal Obsidian Glass=Poziome szkło obsydianowe
+Vertical Obsidian Glass=Pionowe szkło obsydianowe
+Factory Glass=Szkło fabryczne
+Old Factory Glass=Stare szkło fabryczne
+Industrial Glass=Szkło przemysłowe
+
+Clear Glass Pane=Przezroczysta szyba
+Tiled Glass Pane=Płytkowana szyba
+Horizontal Glass Pane=Pozioma szyba
+Vertical Glass Pane=Pionowa szyba
+Tiled Obsidian Glass Pane=Płytkowana szyba obsydianowa
+Horizontal Obsidian Glass Pane=Pozioma szyba obsydianowa
+Vertical Obsidian Glass Pane=Pionowa szyba obsydianowa
+Factory Glass Pane=Szyba fabryczna
+Old Factory Glass Pane=Stara szyba fabryczna
+Industrial Glass Pane=Szyba przemysłowa
+
+Industrial Lamp=Lampa przemysłowa
+Tiled Industrial Lamp=Płytkowana lampa przemysłowa
+Small Factory Lamp=Mała lampa fabryczna
+Medium Factory Lamp=Średnia lampa fabryczna
+Large Factory Lamp=Duża lampa fabryczna
+Small Old Factory Lamp=Mała stara lampa fabryczna
+Medium Old Factory Lamp=Średnia stara lampa fabryczna
+Large Old

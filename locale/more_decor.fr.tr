@@ -1,0 +1,127 @@
+# textdomain: more_decor
+
+Note: Preview does not look like the actual node.=Remarque : l’aperçu ne correspond pas au nœud réel.
+
+Stairs=Escaliers
+Inner=Intérieur
+Outer=Extérieur
+Slab=Dalle
+
+Craft=Fabrication
+
+Press=Presser
+Processing=Traitement
+Time remaining=Temps restant
+
+Tiled=Carrelé
+Tiny=Minuscule
+Small=Petit
+Medium=Moyen
+Long=Long
+Large=Grand
+
+Wood=Bois
+Steel=Acier
+Cast Iron=Fonte
+Copper=Cuivre
+Bronze=Bronze
+Gold=Or
+
+Wood Sheet=Feuille de bois
+Steel Sheet=Feuille d’acier
+Tin Sheet=Feuille d’étain
+Cast Iron Sheet=Feuille de fonte
+Copper Sheet=Feuille de cuivre
+Bronze Sheet=Feuille de bronze
+Gold Sheet=Feuille d’or
+
+Cast Iron Ingot=Lingot de fonte
+Cast Iron Block=Bloc de fonte
+
+Chisel Bench=Établi à ciseau
+Bricks=Briques
+
+Glass Workbench=Établi de verre
+Glass=Verre
+Extra Material=Matériau supplémentaire
+
+Signs Workbench=Établi de panneaux
+Sign=Panneau
+Dye=Colorant
+
+White Brick=Brique blanche
+Black Brick=Brique noire
+Orange Brick=Brique orange
+Brown Brick=Brique brune
+Red Brick=Brique rouge
+Dark Green Brick=Brique vert foncé
+Blue Brick=Brique bleue
+
+White Bricks=Briques blanches
+Black Bricks=Briques noires
+Orange Bricks=Briques orange
+Brown Bricks=Briques brunes
+Red Bricks=Briques rouges
+Dark Green Bricks=Briques vert foncé
+Blue Bricks=Briques bleues
+
+Empty Sign=Panneau vide
+Warn Sign=Panneau d’avertissement
+Do not Enter Sign=Panneau d’interdiction d’entrer
+Electricity Sign=Panneau électricité
+Danger of Life Sign=Panneau danger de mort
+Arrow Up Sign=Panneau flèche haut
+Arrow Down Sign=Panneau flèche bas
+Arrow Right Sign=Panneau flèche droite
+Arrow Left Sign=Panneau flèche gauche
+
+Clear Glass=Verre clair
+Tiled Glass=Verre carrelé
+Horizontal Glass=Verre horizontal
+Vertical Glass=Verre vertical
+Tiled Obsidian Glass=Verre d’obsidienne carrelé
+Horizontal Obsidian Glass=Verre d’obsidienne horizontal
+Vertical Obsidian Glass=Verre d’obsidienne vertical
+Factory Glass=Verre industriel
+Old Factory Glass=Ancien verre industriel
+Industrial Glass=Verre industriel
+
+Clear Glass Pane=Vitre claire
+Tiled Glass Pane=Vitre carrelée
+Horizontal Glass Pane=Vitre horizontale
+Vertical Glass Pane=Vitre verticale
+Tiled Obsidian Glass Pane=Vitre d’obsidienne carrelée
+Horizontal Obsidian Glass Pane=Vitre d’obsidienne horizontale
+Vertical Obsidian Glass Pane=Vitre d’obsidienne verticale
+Factory Glass Pane=Vitre industrielle
+Old Factory Glass Pane=Ancienne vitre industrielle
+Industrial Glass Pane=Vitre industrielle
+
+Industrial Lamp=Lampe industrielle
+Tiled Industrial Lamp=Lampe industrielle carrelée
+Small Factory Lamp=Petite lampe d’usine
+Medium Factory Lamp=Lampe d’usine moyenne
+Large Factory Lamp=Grande lampe d’usine
+Small Old Factory Lamp=Petite vieille lampe d’usine
+Medium Old Factory Lamp=Vieille lampe d’usine moyenne
+Large Old Factory Lamp=Grande vieille lampe d’usine
+
+White Encased Lamp=Lampe encastrée blanche
+Grey Encased Lamp=Lampe encastrée grise
+Dark Gray Encased Lamp=Lampe encastrée gris foncé
+Black Encased Lamp=Lampe encastrée noire
+Yellow Encased Lamp=Lampe encastrée jaune
+Orange Encased Lamp=Lampe encastrée orange
+Red Encased Lamp=Lampe encastrée rouge
+Pink Encased Lamp=Lampe encastrée rose
+Magenta Encased Lamp=Lampe encastrée magenta
+Violet Encased Lamp=Lampe encastrée violette
+Blue Encased Lamp=Lampe encastrée bleue
+Cyan Encased Lamp=Lampe encastrée cyan
+Green Encased Lamp=Lampe encastrée verte
+Dark Green Encased Lamp=Lampe encastrée vert foncé
+Brown Encased Lamp=Lampe encastrée brune
+
+Steel Pan=Poêle en acier
+Cast Iron Pan=Poêle en fonte
+Bronze Pan=Poêle en bronze
