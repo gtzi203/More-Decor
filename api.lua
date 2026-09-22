@@ -109,7 +109,7 @@ function more_decor.get_workbench_formspec(def, player, pos)
         "formspec_version[6]" ..
         "size[12,12]" ..
 
-        "image[0,0;12,12;more_decor_chisel_bench_bg.png]" ..
+        "image[0,0;12,12;more_decor_workbench_bg.png]" ..
         "style_type[label;textcolor=black]" ..
         "label[0.26,0.36;" .. def.description .. "]" ..
 
