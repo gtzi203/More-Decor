@@ -20,32 +20,13 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 License for Textures, Models and Sounds
 ---------------------------------------
 
-Copyright (C) 2026- gtzi203
-
-Permission is hereby granted, free of charge, to any person 
-obtaining a copy of this software and associated documentation files 
-(the “Software”), to deal in the Software without restriction, including 
-without limitation the rights to use, copy, modify, merge, publish, 
-distribute, sublicense, and/or sell copies of the Software, and to 
-permit persons to whom the Software is furnished to do so, subject 
-to the following conditions:
-
-The above copyright notice and this permission notice shall be included 
-in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, 
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR 
-THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+CC-BY-SA 3.0 UNPORTED. Created by gtzi203
 
 Credits
 -------
 
 Textures:
-    Some textures include ones from Minetest Game (ContentDB page: https://content.luanti.org/packages/Luanti/minetest_game/) including:
+    Some textures include ones from Minetest Game (ContentDB page: https://content.luanti.org/packages/Luanti/minetest_game/) (Licensed under CC BY-SA 3.0) including:
         - cast_iron_ingot.png
         - more_decor_press.png
         - more_decor_chisel_bench_bg.png
@@ -61,5 +42,5 @@ Textures:
     (Create Deco Modrinth page: https://modrinth.com/mod/create-deco)
 
 Sounds:
-    more_decor_light_humm_v1/2.ogg - original by freesound_community (Pixabay profile: https://pixabay.com/users/freesound_community-46691455/)
-    more_decor_light_flicker.1/2/3.ogg - original by Vadim_Makes_Sound (Pixabay profile: https://pixabay.com/users/vadim_makes_sound-54823268/)
+    more_decor_light_humm_v1/2.ogg - original by freesound_community (Pixabay: https://pixabay.com/sound-effects/film-special-effects-factory-fluorescent-light-buzz-6871/) - License: https://pixabay.com/service/license-summary/
+    more_decor_light_flicker.1/2/3.ogg - original by Vadim_Makes_Sound (Pixabay: https://pixabay.com/sound-effects/film-special-effects-cyberpunk-neon-sign-flicker-and-electric-buzz-546577/) - License: https://pixabay.com/service/license-summary/
