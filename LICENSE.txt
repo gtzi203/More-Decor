@@ -40,7 +40,3 @@ Textures:
     (Create Modrinth page: https://modrinth.com/mod/create)
     (Create Crafts & Additions Modrinth page: https://modrinth.com/mod/createaddition)
     (Create Deco Modrinth page: https://modrinth.com/mod/create-deco)
-
-Sounds:
-    more_decor_light_humm_v1/2.ogg - original by freesound_community (Pixabay: https://pixabay.com/sound-effects/film-special-effects-factory-fluorescent-light-buzz-6871/) - License: https://pixabay.com/service/license-summary/
-    more_decor_light_flicker.1/2/3.ogg - original by Vadim_Makes_Sound (Pixabay: https://pixabay.com/sound-effects/film-special-effects-cyberpunk-neon-sign-flicker-and-electric-buzz-546577/) - License: https://pixabay.com/service/license-summary/
