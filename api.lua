@@ -174,6 +174,7 @@ function more_decor.register_workbench(name, def)
         mesh = def.mesh,
         paramtype = "light",
         paramtype2 = "facedir",
+        use_texture_alpha = "clip",
         selection_box = {
             type = "fixed",
             fixed = {
@@ -1001,6 +1002,7 @@ function more_decor.register_lamp(name, def)
         mesh = def.mesh,
         paramtype = "light",
         paramtype2 = def.override_param2 or "facedir",
+        use_texture_alpha = "clip",
         light_source = def.light_source,
         selection_box = {
             type = "fixed",
@@ -1114,8 +1116,8 @@ Signs:
 --]]
 
 more_decor.sign_sizes = {
-    ["small"] = {description = S("Small"), node_box = {-0.3750, -0.3750, 0.4375, 0.3750, 0.3750, 0.5000}},
-    ["large"] = {description = S("Large"), node_box = {-0.4375, -0.4375, 0.4375, 0.4375, 0.4375, 0.5000}}
+    ["small"] = {description = S("Small"), node_box = {-0.3750, -0.5000, -0.3750, 0.3750, -0.4375, 0.3750}},
+    ["large"] = {description = S("Large"), node_box = {-0.4375, -0.5000, -0.4375, 0.4375, -0.4375, 0.4375}}
 }
 
 more_decor.sign_types = {
@@ -1159,12 +1161,12 @@ function more_decor.register_sign(name, def)
             minetest.register_node("more_decor:" .. size .. "_" .. name .. "_sign_" .. type, {
                 description = size_def.description .. " " .. def.description .. " (" .. type_def.description .. ")",
                 tiles = {
-                    "more_decor_sign_edge_" .. type .. ".png",
-                    "more_decor_sign_edge_" .. type .. ".png^[transformR180",
-                    "more_decor_sign_edge_" .. type .. ".png^[transformR270",
-                    "more_decor_sign_edge_" .. type .. ".png^[transformR90",
+                    "more_decor_" .. size .. "_sign_plate_" .. type .. ".png^more_decor_sign_icon_" .. name .. ".png",
                     "more_decor_" .. size .. "_sign_plate_" .. type .. ".png",
-                    "more_decor_" .. size .. "_sign_plate_" .. type .. ".png^more_decor_sign_icon_" .. name .. ".png"
+                    "more_decor_sign_edge_" .. type .. ".png^[transformR180",
+                    "more_decor_sign_edge_" .. type .. ".png^[transformR180",
+                    "more_decor_sign_edge_" .. type .. ".png^[transformR180",
+                    "more_decor_sign_edge_" .. type .. ".png^[transformR180"
                 },
                 groups = more_decor.groups[type_def.type],
                 sounds = more_decor.sounds[type_def.type],
@@ -1176,7 +1178,7 @@ function more_decor.register_sign(name, def)
                     }
                 },
                 paramtype = "light",
-                paramtype2 = "facedir",
+                paramtype2 = "wallmounted",
                 is_ground_content = false
             })
         end

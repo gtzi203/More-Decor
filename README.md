@@ -34,6 +34,9 @@ Special Crafting:
     Signs:
         Use the signs workbench with an empty sign and dye. 
 
+    Metal Sheets:
+        Rightclick on a press with an metal ingot.
+
 
 
 License:
